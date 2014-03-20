@@ -1,0 +1,1449 @@
+c__builtin__
+set
+p0
+((lp1
+V(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Postsecondary Success")
+p2
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Family Health: Family Planning")
+p3
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="US Program") and (@gfotopics=="Community Grants")
+p4
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Family Health: Nutrition")
+p5
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications") and (@gfotopics=="Community Grants")
+p6
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfotopics=="Emergency Response")
+p7
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p8
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="US Program") and (@gfotopics=="Community Grants")
+p9
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Global Policy & Advocacy")
+p10
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="US Program") and (@gfotopics=="Not Available")
+p11
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p12
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="College-Ready")
+p13
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Emergency Response")
+p14
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Charitable Sector Support")
+p15
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p16
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="Family Health: Nutrition")
+p17
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Not Available")
+p18
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="Community Grants")
+p19
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p20
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p21
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p22
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier")
+p23
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013")
+p24
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Special Projects") and (@gfotopics=="Community Grants")
+p25
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="US Program") and (@gfotopics=="Pacific Northwest: Early Learning")
+p26
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p27
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Health") and (@gfotopics=="Neglected and Infectious Diseases")
+p28
+aV(@gfomediatype=="Grant") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p29
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfotopics=="Neglected and Infectious Diseases")
+p30
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Communications") and (@gfotopics=="Community Grants")
+p31
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Nutrition")
+p32
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Global Development")
+p33
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p34
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Charitable Sector Support")
+p35
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Community Grants")
+p36
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Community Relations")
+p37
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="US Program") and (@gfotopics=="Family Health: Family Planning")
+p38
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p39
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="US Program")
+p40
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Charitable Sector Support")
+p41
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Charitable Sector Support")
+p42
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p43
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Tuberculosis")
+p44
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier")
+p45
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p46
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p47
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Agricultural Development")
+p48
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p49
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Communications")
+p50
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Community Relations")
+p51
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p52
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfotopics=="Community Relations")
+p53
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p54
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p55
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Global Health") and (@gfotopics=="Not Available")
+p56
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Health") and (@gfotopics=="Vaccine Delivery")
+p57
+aV(@gfomediatype=="Grant") and (@gfotopics=="Global Policy & Advocacy")
+p58
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfotopics=="Postsecondary Success")
+p59
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfotopics=="Global Policy & Advocacy")
+p60
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Not Available")
+p61
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Postsecondary Success")
+p62
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p63
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p64
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p65
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Development")
+p66
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013")
+p67
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="HIV")
+p68
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Vaccine Delivery")
+p69
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfotopics=="Family Health: Family Planning")
+p70
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Vaccine Delivery")
+p71
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Charitable Sector Support")
+p72
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p73
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p74
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p75
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="Global Policy & Advocacy")
+p76
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Tuberculosis")
+p77
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfocategories=="Special Projects")
+p78
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfotopics=="Vaccine Delivery")
+p79
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Pacific Northwest: Early Learning")
+p80
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Global Libraries")
+p81
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Special Projects") and (@gfotopics=="Not Available")
+p82
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Tuberculosis")
+p83
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Nutrition")
+p84
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Malaria")
+p85
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Special Projects") and (@gfotopics=="Pacific Northwest: Early Learning")
+p86
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p87
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfocategories=="Global Health")
+p88
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p89
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="Pacific Northwest: Family Homelessness")
+p90
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Nutrition")
+p91
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p92
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Development") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p93
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfotopics=="HIV")
+p94
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p95
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Communications")
+p96
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p97
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Development") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p98
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p99
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p100
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="Tuberculosis")
+p101
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Health") and (@gfotopics=="Vaccine Delivery")
+p102
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Community Relations")
+p103
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p104
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p105
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="US Program")
+p106
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p107
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Global Policy & Advocacy")
+p108
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Special Projects") and (@gfotopics=="Global Libraries")
+p109
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Pacific Northwest: Family Homelessness")
+p110
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Emergency Response")
+p111
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Tuberculosis")
+p112
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications") and (@gfotopics=="Postsecondary Success")
+p113
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Community Grants")
+p114
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Communications")
+p115
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Not Available")
+p116
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Communications") and (@gfotopics=="Charitable Sector Support")
+p117
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Development") and (@gfotopics=="Community Grants")
+p118
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfotopics=="Global Libraries")
+p119
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="Malaria")
+p120
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p121
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Communications")
+p122
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p123
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfotopics=="Charitable Sector Support")
+p124
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="US Program")
+p125
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p126
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p127
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p128
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Special Projects") and (@gfotopics=="Family Health: Family Planning")
+p129
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfotopics=="Global Libraries")
+p130
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p131
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfotopics=="Global Libraries")
+p132
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="HIV")
+p133
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Development") and (@gfotopics=="Community Relations")
+p134
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="HIV")
+p135
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p136
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Global Health")
+p137
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Community Relations")
+p138
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy")
+p139
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="Global Libraries")
+p140
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Emergency Response")
+p141
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications") and (@gfotopics=="Community Relations")
+p142
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p143
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p144
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Family Planning")
+p145
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Family Health: Family Planning")
+p146
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Agricultural Development")
+p147
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p148
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p149
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Nutrition")
+p150
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Global Policy & Advocacy")
+p151
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="US Program")
+p152
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Not Available")
+p153
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Emergency Response")
+p154
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="US Program") and (@gfotopics=="College-Ready")
+p155
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfocategories=="Global Health") and (@gfotopics=="Global Policy & Advocacy")
+p156
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfotopics=="Neglected and Infectious Diseases")
+p157
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Policy & Advocacy")
+p158
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p159
+aV(@gfomediatype=="Grant") and (@gfocategories=="Special Projects") and (@gfotopics=="Communications")
+p160
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Vaccine Delivery")
+p161
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfotopics=="Community Grants")
+p162
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Pacific Northwest: Early Learning")
+p163
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Communications")
+p164
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p165
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p166
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p167
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfotopics=="Postsecondary Success")
+p168
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p169
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p170
+aV(@gfomediatype=="Grant") and (@gfocategories=="Communications") and (@gfotopics=="College-Ready")
+p171
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Special Projects")
+p172
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p173
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p174
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfotopics=="Agricultural Development")
+p175
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Community Relations")
+p176
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Policy & Advocacy")
+p177
+aV(@gfomediatype=="Grant") and (@gfotopics=="Postsecondary Success")
+p178
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Special Projects") and (@gfotopics=="Not Available")
+p179
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Policy & Advocacy")
+p180
+aV(@gfomediatype=="Grant") and (@gfocategories=="Communications") and (@gfotopics=="Family Health: Family Planning")
+p181
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Pacific Northwest: Family Homelessness")
+p182
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfotopics=="Global Policy & Advocacy")
+p183
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Emergency Response")
+p184
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p185
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Health") and (@gfotopics=="Communications")
+p186
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfotopics=="Emergency Response")
+p187
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Health") and (@gfotopics=="Neglected and Infectious Diseases")
+p188
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Charitable Sector Support")
+p189
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Neglected and Infectious Diseases")
+p190
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Communications") and (@gfotopics=="College-Ready")
+p191
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Agricultural Development")
+p192
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Special Projects") and (@gfotopics=="Not Available")
+p193
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p194
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Special Projects")
+p195
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Agricultural Development")
+p196
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p197
+aV(@gfomediatype=="Grant") and (@gfocategories=="Special Projects") and (@gfotopics=="Community Grants")
+p198
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p199
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Communications") and (@gfotopics=="Charitable Sector Support")
+p200
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health")
+p201
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p202
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p203
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="HIV")
+p204
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p205
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p206
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Special Projects")
+p207
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Not Available")
+p208
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p209
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p210
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Community Grants")
+p211
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfotopics=="Community Grants")
+p212
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Global Policy & Advocacy")
+p213
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="US Program") and (@gfotopics=="Community Grants")
+p214
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications")
+p215
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="US Program") and (@gfotopics=="Not Available")
+p216
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Health") and (@gfotopics=="Neglected and Infectious Diseases")
+p217
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="US Program") and (@gfotopics=="Pacific Northwest: Early Learning")
+p218
+aV(@gfomediatype=="Grant") and (@gfocategories=="Special Projects") and (@gfotopics=="Pacific Northwest: Early Learning")
+p219
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="Family Health: Family Planning")
+p220
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Development") and (@gfotopics=="Not Available")
+p221
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfotopics=="Global Libraries")
+p222
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="US Program") and (@gfotopics=="Community Grants")
+p223
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Policy & Advocacy")
+p224
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="US Program") and (@gfotopics=="Global Policy & Advocacy")
+p225
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Special Projects") and (@gfotopics=="Communications")
+p226
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Malaria")
+p227
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Communications")
+p228
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Malaria")
+p229
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Health") and (@gfotopics=="Global Policy & Advocacy")
+p230
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="Special Projects") and (@gfotopics=="Pacific Northwest: Early Learning")
+p231
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Special Projects") and (@gfotopics=="Pacific Northwest: Early Learning")
+p232
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Development")
+p233
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Charitable Sector Support")
+p234
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Global Policy & Advocacy")
+p235
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Vaccine Delivery")
+p236
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfotopics=="Global Policy & Advocacy")
+p237
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Family Health: Family Planning")
+p238
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Malaria")
+p239
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Health") and (@gfotopics=="Tuberculosis")
+p240
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Global Policy & Advocacy")
+p241
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Charitable Sector Support")
+p242
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p243
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Tuberculosis")
+p244
+aV(@gfomediatype=="Grant") and (@gfotopics=="Neglected and Infectious Diseases")
+p245
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="US Program") and (@gfotopics=="Postsecondary Success")
+p246
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Communications")
+p247
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Development") and (@gfotopics=="Agricultural Development")
+p248
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="Global Health")
+p249
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfotopics=="Communications")
+p250
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p251
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Community Grants")
+p252
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Malaria")
+p253
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p254
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Health")
+p255
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Health") and (@gfotopics=="Not Available")
+p256
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfotopics=="Emergency Response")
+p257
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="Communications") and (@gfotopics=="Global Policy & Advocacy")
+p258
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfotopics=="Family Health: Family Planning")
+p259
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Health")
+p260
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="US Program") and (@gfotopics=="College-Ready")
+p261
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p262
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="Special Projects")
+p263
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfotopics=="Vaccine Delivery")
+p264
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="US Program")
+p265
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Nutrition")
+p266
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Community Grants")
+p267
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="Malaria")
+p268
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="Community Relations")
+p269
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="US Program") and (@gfotopics=="Global Policy & Advocacy")
+p270
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health")
+p271
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Not Available")
+p272
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfotopics=="Community Relations")
+p273
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p274
+aV(@gfomediatype=="Grant") and (@gfotopics=="College-Ready")
+p275
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p276
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="US Program") and (@gfotopics=="College-Ready")
+p277
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Development") and (@gfotopics=="Tuberculosis")
+p278
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Special Projects") and (@gfotopics=="Not Available")
+p279
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="HIV")
+p280
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p281
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Neglected and Infectious Diseases")
+p282
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p283
+aV(@gfomediatype=="Grant") and (@gfocategories=="Communications") and (@gfotopics=="Global Policy & Advocacy")
+p284
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="US Program") and (@gfotopics=="Charitable Sector Support")
+p285
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Not Available")
+p286
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Tuberculosis")
+p287
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Emergency Response")
+p288
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Not Available")
+p289
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfotopics=="Malaria")
+p290
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Family Planning")
+p291
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p292
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfotopics=="Emergency Response")
+p293
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Family Health: Nutrition")
+p294
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Communications")
+p295
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010")
+p296
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p297
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Charitable Sector Support")
+p298
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfotopics=="Not Available")
+p299
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfotopics=="Agricultural Development")
+p300
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p301
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="Malaria")
+p302
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p303
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Special Projects")
+p304
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Vaccine Delivery")
+p305
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfotopics=="Communications")
+p306
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Communications") and (@gfotopics=="Charitable Sector Support")
+p307
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy")
+p308
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Special Projects")
+p309
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfotopics=="Pacific Northwest: Family Homelessness")
+p310
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfocategories=="Global Development")
+p311
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="US Program")
+p312
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Communications")
+p313
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Health") and (@gfotopics=="Global Policy & Advocacy")
+p314
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Health") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p315
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p316
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Family Health: Family Planning")
+p317
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Family Health: Nutrition")
+p318
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfotopics=="Family Health: Nutrition")
+p319
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p320
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p321
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p322
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="HIV")
+p323
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012")
+p324
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="US Program") and (@gfotopics=="Postsecondary Success")
+p325
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="HIV")
+p326
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Health")
+p327
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Family Health: Nutrition")
+p328
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Family Health: Family Planning")
+p329
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Agricultural Development")
+p330
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="HIV")
+p331
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Special Projects") and (@gfotopics=="Community Grants")
+p332
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Health")
+p333
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfocategories=="Global Development")
+p334
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Communications") and (@gfotopics=="Global Policy & Advocacy")
+p335
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Malaria")
+p336
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p337
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Agricultural Development")
+p338
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="Emergency Response")
+p339
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Health") and (@gfotopics=="Malaria")
+p340
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="US Program")
+p341
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p342
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfotopics=="Emergency Response")
+p343
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Community Relations")
+p344
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="College-Ready")
+p345
+aV(@gfomediatype=="Grant") and (@gfocategories=="Special Projects") and (@gfotopics=="Agricultural Development")
+p346
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="Tuberculosis")
+p347
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Health") and (@gfotopics=="Global Policy & Advocacy")
+p348
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p349
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Community Grants")
+p350
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Family Health: Family Planning")
+p351
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Health") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p352
+aV(@gfomediatype=="Grant") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p353
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Communications")
+p354
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Nutrition")
+p355
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Community Grants")
+p356
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Not Available")
+p357
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Family Health: Nutrition")
+p358
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p359
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfotopics=="Global Policy & Advocacy")
+p360
+aV(@gfomediatype=="Grant") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p361
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfocategories=="Global Health")
+p362
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011")
+p363
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfotopics=="College-Ready")
+p364
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p365
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p366
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Nutrition")
+p367
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p368
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfotopics=="HIV")
+p369
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Special Projects") and (@gfotopics=="Communications")
+p370
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p371
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Tuberculosis")
+p372
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p373
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Special Projects")
+p374
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p375
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p376
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p377
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfotopics=="Neglected and Infectious Diseases")
+p378
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfotopics=="Family Health: Family Planning")
+p379
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Communications")
+p380
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="US Program") and (@gfotopics=="Communications")
+p381
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="Global Policy & Advocacy")
+p382
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p383
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Development") and (@gfotopics=="Agricultural Development")
+p384
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p385
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="Not Available")
+p386
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="US Program") and (@gfotopics=="Global Libraries")
+p387
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Health")
+p388
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="US Program") and (@gfotopics=="Pacific Northwest: Family Homelessness")
+p389
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="US Program") and (@gfotopics=="Family Health: Family Planning")
+p390
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfotopics=="HIV")
+p391
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p392
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="US Program") and (@gfotopics=="Not Available")
+p393
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Vaccine Delivery")
+p394
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Charitable Sector Support")
+p395
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p396
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Health") and (@gfotopics=="Tuberculosis")
+p397
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="US Program") and (@gfotopics=="Pacific Northwest: Early Learning")
+p398
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p399
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Nutrition")
+p400
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Communications")
+p401
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p402
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Family Health: Family Planning")
+p403
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Communications")
+p404
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Community Grants")
+p405
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p406
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p407
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Neglected and Infectious Diseases")
+p408
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Family Health: Family Planning")
+p409
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Postsecondary Success")
+p410
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfotopics=="Pacific Northwest: Family Homelessness")
+p411
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Community Relations")
+p412
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Special Projects") and (@gfotopics=="Not Available")
+p413
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Special Projects") and (@gfotopics=="Community Grants")
+p414
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Communications")
+p415
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfotopics=="Family Health: Family Planning")
+p416
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Communications") and (@gfotopics=="Community Grants")
+p417
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="US Program")
+p418
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p419
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Family Health: Nutrition")
+p420
+aV(@gfomediatype=="Grant") and (@gfotopics=="Pacific Northwest: Family Homelessness")
+p421
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p422
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Communications") and (@gfotopics=="Community Grants")
+p423
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Global Libraries")
+p424
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p425
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Pacific Northwest: Early Learning")
+p426
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Communications")
+p427
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Family Health: Family Planning")
+p428
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p429
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfotopics=="Emergency Response")
+p430
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Neglected and Infectious Diseases")
+p431
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p432
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Special Projects") and (@gfotopics=="Pacific Northwest: Early Learning")
+p433
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfotopics=="Malaria")
+p434
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p435
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p436
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p437
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfotopics=="Family Health: Family Planning")
+p438
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p439
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Agricultural Development")
+p440
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="Neglected and Infectious Diseases")
+p441
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Emergency Response")
+p442
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="Global Policy & Advocacy")
+p443
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p444
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p445
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p446
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications") and (@gfotopics=="Global Policy & Advocacy")
+p447
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development")
+p448
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="US Program")
+p449
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Global Development")
+p450
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfotopics=="HIV")
+p451
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Development")
+p452
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Health")
+p453
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p454
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Emergency Response")
+p455
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Malaria")
+p456
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfotopics=="Agricultural Development")
+p457
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Neglected and Infectious Diseases")
+p458
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Postsecondary Success")
+p459
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p460
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfotopics=="Not Available")
+p461
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Special Projects") and (@gfotopics=="Community Grants")
+p462
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Malaria")
+p463
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p464
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy")
+p465
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="Agricultural Development")
+p466
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Policy & Advocacy")
+p467
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Agricultural Development")
+p468
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="US Program") and (@gfotopics=="Global Policy & Advocacy")
+p469
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Special Projects") and (@gfotopics=="Community Relations")
+p470
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Charitable Sector Support")
+p471
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfotopics=="Neglected and Infectious Diseases")
+p472
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Development") and (@gfotopics=="Malaria")
+p473
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfotopics=="College-Ready")
+p474
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Pacific Northwest: Family Homelessness")
+p475
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p476
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p477
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p478
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Malaria")
+p479
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="Pacific Northwest: Early Learning")
+p480
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p481
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfotopics=="Community Grants")
+p482
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Special Projects") and (@gfotopics=="Global Policy & Advocacy")
+p483
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p484
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Community Grants")
+p485
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Family Planning")
+p486
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Neglected and Infectious Diseases")
+p487
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p488
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfotopics=="Global Policy & Advocacy")
+p489
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012")
+p490
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfotopics=="Tuberculosis")
+p491
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p492
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010")
+p493
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p494
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Communications")
+p495
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Emergency Response")
+p496
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Special Projects") and (@gfotopics=="Agricultural Development")
+p497
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p498
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p499
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Malaria")
+p500
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Neglected and Infectious Diseases")
+p501
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p502
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Emergency Response")
+p503
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Agricultural Development")
+p504
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="US Program") and (@gfotopics=="Postsecondary Success")
+p505
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Development") and (@gfotopics=="Agricultural Development")
+p506
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p507
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Health") and (@gfotopics=="Not Available")
+p508
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p509
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfotopics=="Communications")
+p510
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Family Planning")
+p511
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p512
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Family Health: Family Planning")
+p513
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Global Policy & Advocacy")
+p514
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="HIV")
+p515
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Special Projects") and (@gfotopics=="Communications")
+p516
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Special Projects") and (@gfotopics=="Charitable Sector Support")
+p517
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Agricultural Development")
+p518
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="US Program")
+p519
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Policy & Advocacy")
+p520
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Policy & Advocacy")
+p521
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfotopics=="Pacific Northwest: Early Learning")
+p522
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Health")
+p523
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfotopics=="Vaccine Delivery")
+p524
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Agricultural Development")
+p525
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p526
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="US Program") and (@gfotopics=="College-Ready")
+p527
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p528
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfotopics=="Family Health: Nutrition")
+p529
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="US Program") and (@gfotopics=="Community Grants")
+p530
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Special Projects") and (@gfotopics=="Not Available")
+p531
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Communications")
+p532
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Special Projects")
+p533
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications") and (@gfotopics=="Community Relations")
+p534
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p535
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications") and (@gfotopics=="College-Ready")
+p536
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Pacific Northwest: Family Homelessness")
+p537
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p538
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Family Health: Nutrition")
+p539
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Agricultural Development")
+p540
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p541
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Global Libraries")
+p542
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Special Projects") and (@gfotopics=="Community Grants")
+p543
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfotopics=="Community Grants")
+p544
+aV(@gfomediatype=="Grant") and (@gfocategories=="US Program") and (@gfotopics=="Family Health: Family Planning")
+p545
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Malaria")
+p546
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="US Program") and (@gfotopics=="Postsecondary Success")
+p547
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Communications") and (@gfotopics=="Community Grants")
+p548
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier")
+p549
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Agricultural Development")
+p550
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p551
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Charitable Sector Support")
+p552
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Global Health")
+p553
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="HIV")
+p554
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Communications") and (@gfotopics=="College-Ready")
+p555
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Pacific Northwest: Early Learning")
+p556
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfotopics=="Emergency Response")
+p557
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Development")
+p558
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications") and (@gfotopics=="Community Grants")
+p559
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfotopics=="HIV")
+p560
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfotopics=="Neglected and Infectious Diseases")
+p561
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfotopics=="Vaccine Delivery")
+p562
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p563
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p564
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p565
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Agricultural Development")
+p566
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy")
+p567
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Development") and (@gfotopics=="Not Available")
+p568
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p569
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Communications")
+p570
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Global Policy & Advocacy")
+p571
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Health") and (@gfotopics=="Malaria")
+p572
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfotopics=="Family Health: Family Planning")
+p573
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Communications") and (@gfotopics=="Community Grants")
+p574
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p575
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Family Health: Family Planning")
+p576
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p577
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Communications")
+p578
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Communications")
+p579
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="US Program") and (@gfotopics=="Postsecondary Success")
+p580
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="Postsecondary Success")
+p581
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Development") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p582
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="US Program") and (@gfotopics=="Charitable Sector Support")
+p583
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfotopics=="Malaria")
+p584
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy")
+p585
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Health") and (@gfotopics=="Not Available")
+p586
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Pacific Northwest: Family Homelessness")
+p587
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p588
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health")
+p589
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="HIV")
+p590
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Special Projects") and (@gfotopics=="Not Available")
+p591
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Postsecondary Success")
+p592
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p593
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p594
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p595
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Development") and (@gfotopics=="Communications")
+p596
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="HIV")
+p597
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfotopics=="Tuberculosis")
+p598
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Development")
+p599
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Communications") and (@gfotopics=="Global Policy & Advocacy")
+p600
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Global Policy & Advocacy")
+p601
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development")
+p602
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p603
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p604
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Postsecondary Success")
+p605
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Health") and (@gfotopics=="Malaria")
+p606
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Communications") and (@gfotopics=="Community Relations")
+p607
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Charitable Sector Support")
+p608
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Special Projects") and (@gfotopics=="Not Available")
+p609
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="Vaccine Delivery")
+p610
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="US Program") and (@gfotopics=="Global Policy & Advocacy")
+p611
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p612
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p613
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Health") and (@gfotopics=="Tuberculosis")
+p614
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p615
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Agricultural Development")
+p616
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p617
+aV(@gfomediatype=="Grant") and (@gfotopics=="Global Libraries")
+p618
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p619
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Health") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p620
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p621
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p622
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Not Available")
+p623
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Agricultural Development")
+p624
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p625
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="US Program") and (@gfotopics=="Communications")
+p626
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Family Planning")
+p627
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Family Health: Family Planning")
+p628
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfotopics=="Tuberculosis")
+p629
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="Vaccine Delivery")
+p630
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p631
+aV(@gfomediatype=="Grant") and (@gfotopics=="Not Available")
+p632
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Tuberculosis")
+p633
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfocategories=="Special Projects") and (@gfotopics=="College-Ready")
+p634
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Communications") and (@gfotopics=="Global Policy & Advocacy")
+p635
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p636
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="US Program") and (@gfotopics=="Family Health: Family Planning")
+p637
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p638
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Communications")
+p639
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Neglected and Infectious Diseases")
+p640
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p641
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Postsecondary Success")
+p642
+aV(@gfomediatype=="Grant") and (@gfocategories=="US Program") and (@gfotopics=="Postsecondary Success")
+p643
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Emergency Response")
+p644
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012")
+p645
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfotopics=="Charitable Sector Support")
+p646
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfotopics=="Pacific Northwest: Early Learning")
+p647
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfotopics=="Malaria")
+p648
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Agricultural Development")
+p649
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfotopics=="College-Ready")
+p650
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p651
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="Global Health")
+p652
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Communications")
+p653
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2010") and (@gfotopics=="Community Grants")
+p654
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p655
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfotopics=="Not Available")
+p656
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p657
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p658
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Malaria")
+p659
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Family Health: Nutrition")
+p660
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Global Policy & Advocacy")
+p661
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="US Program") and (@gfotopics=="Pacific Northwest: Early Learning")
+p662
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p663
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Emergency Response")
+p664
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p665
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Vaccine Delivery")
+p666
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfotopics=="Family Health: Maternal, Newborn, and Child Health")
+p667
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2013") and (@gfotopics=="Vaccine Delivery")
+p668
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Not Available")
+p669
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Malaria")
+p670
+aV(@gfomediatype=="Grant") and (@gfocategories=="Special Projects")
+p671
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Not Available")
+p672
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p673
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Health") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p674
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p675
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2012") and (@gfocategories=="Communications") and (@gfotopics=="Community Relations")
+p676
+aV(@gfomediatype=="Grant") and (@gfoyear=="2010") and (@gfocategories=="US Program") and (@gfotopics=="Pacific Northwest: Early Learning")
+p677
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Development") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p678
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfocategories=="Global Development") and (@gfotopics=="Emergency Response")
+p679
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Health") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p680
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Health") and (@gfotopics=="Neglected and Infectious Diseases")
+p681
+aV(@gfomediatype=="Grant") and (@gfocategories=="Communications") and (@gfotopics=="Agricultural Development")
+p682
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p683
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010")
+p684
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Communications")
+p685
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Vaccine Delivery")
+p686
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfocategories=="Communications")
+p687
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="Communications")
+p688
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p689
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Global Policy & Advocacy")
+p690
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Development") and (@gfotopics=="Global Libraries")
+p691
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2011") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p692
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Health") and (@gfotopics=="Not Available")
+p693
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfotopics=="Tuberculosis")
+p694
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Pacific Northwest: Early Learning")
+p695
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2010") and (@gfocategories=="Special Projects") and (@gfotopics=="Family Health: Family Planning")
+p696
+aV(@gfomediatype=="Grant") and (@gfoyear=="2011") and (@gfocategories=="US Program") and (@gfotopics=="Community Grants")
+p697
+aV(@gfomediatype=="Grant") and (@gfocategories=="Global Health") and (@gfotopics=="Water, Sanitation, and Hygiene")
+p698
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfotopics=="Agricultural Development")
+p699
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfocategories=="US Program") and (@gfotopics=="Postsecondary Success")
+p700
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfotopics=="Global Policy & Advocacy")
+p701
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2013") and (@gfocategories=="Special Projects") and (@gfotopics=="Not Available")
+p702
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2011") and (@gfocategories=="Global Development") and (@gfotopics=="Vaccine Delivery")
+p703
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Agricultural Development")
+p704
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2013") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p705
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfocategories=="Global Development") and (@gfotopics=="Charitable Sector Support")
+p706
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p707
+aV(@gfomediatype=="Grant") and (@gforegions=="North America")
+p708
+aV(@gfomediatype=="Grant") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Neglected and Infectious Diseases")
+p709
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2009 and earlier") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p710
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfotopics=="Not Available")
+p711
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Communications") and (@gfotopics=="Community Relations")
+p712
+aV(@gfomediatype=="Grant") and (@gfoyear=="2012") and (@gfotopics=="Family Health: Family Planning")
+p713
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfoyear=="2009 and earlier") and (@gfotopics=="Enteric Diseases and Diarrhea")
+p714
+aV(@gfomediatype=="Grant") and (@gfocategories=="Communications") and (@gfotopics=="Charitable Sector Support")
+p715
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2012") and (@gfocategories=="Communications") and (@gfotopics=="Community Relations")
+p716
+aV(@gfomediatype=="Grant") and (@gforegions=="Sub-Saharan Africa") and (@gfocategories=="Global Health") and (@gfotopics=="Not Available")
+p717
+aV(@gfomediatype=="Grant") and (@gforegions=="North America") and (@gfoyear=="2011") and (@gfotopics=="College-Ready")
+p718
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfotopics=="Global Policy & Advocacy")
+p719
+aV(@gfomediatype=="Grant") and (@gfoyear=="2013") and (@gfocategories=="Special Projects") and (@gfotopics=="Global Libraries")
+p720
+aV(@gfomediatype=="Grant") and (@gfotopics=="Pacific Northwest: Early Learning")
+p721
+aV(@gfomediatype=="Grant") and (@gforegions=="Asia") and (@gfoyear=="2010") and (@gfocategories=="Global Policy & Advocacy") and (@gfotopics=="Global Policy & Advocacy")
+p722
+atp723
+Rp724
+.
