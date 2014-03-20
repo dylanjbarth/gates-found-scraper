@@ -1,4 +1,4 @@
-# Bill & Melinda Gates Foundation Funding Visualizer	
+# Bill & Melinda Gates Foundation Funding Scraper
 
 This app pulls data from the [open dataset](http://www.gatesfoundation.org/How-We-Work/Quick-Links/Grants-Database) of B&G Found. Sparked by my interest in 1) being adopted by Bill Gates (because he's the :bomb: dotcom) and 2) poking around the Gates Found site (Context: the startup nonprofit I cofounded -- [FLE](http://learningequality.org) -- could really use a little bit of that money =] )
 
